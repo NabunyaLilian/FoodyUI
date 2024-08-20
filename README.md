@@ -18,7 +18,7 @@ This Flutter project is a mobile application UI inspired by a design found on Dr
 
 Ensure you have the following installed:
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (vX.X.X or higher)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (v3.24.0 or higher)
 - [Dart SDK](https://dart.dev/get-dart)
 - An IDE like [VSCode](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
