@@ -73,6 +73,3 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 - Original design by [RonDesignLab](https://dribbble.com/RonDesignLab) on Dribbble.
 - Thanks to the Flutter community for their support and contributions.
 
----
-
-Feel free to modify this template to better fit your project specifics.
