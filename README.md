@@ -3,7 +3,7 @@
 This Flutter project is a mobile application UI inspired by a design found on Dribbble. The goal of this project is to implement the design with precise detail, creating a smooth and visually appealing user interface.
 
 ![Design Preview](lib/images/design_preview.jpg)  
-*Design credit: [RonDesignLab](https://dribbble.com/RonDesignLab)*
+*Design credit: [RonDesignLab](https://dribbble.com/shots/6687016-Foody-Food-by-Subscription)*
 
 ## Features
 
