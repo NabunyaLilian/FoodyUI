@@ -47,11 +47,8 @@ Ensure you have the following installed:
 lib/
 ├── main.dart           # Entry point of the application
 ├── ui/
-│   ├── screens/        # Contains screen widgets
-│   ├── widgets/        # Contains reusable widgets
-│   ├── themes/         # Theme and style configurations
-│   ├── utils/          # Utility classes and functions
-└── models/             # Data models for the UI
+│   ├── pages/  # Contains screen widgets
+└── models/    # Data models for the UI
 ```
 
 ### Customization
